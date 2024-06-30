@@ -1,4 +1,4 @@
-# Moving Object Recognition in Video Footage
+# Vehicle Type Recognition in Video Footage
 
 This assignment project aims to recognize the type of moving objects in video footage. The realization is composed of two parts:
 
